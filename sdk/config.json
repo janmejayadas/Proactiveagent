@@ -1,16 +1,6 @@
 {
   "MESSAGE_HUB": {
-
-      "name": "J_Event Streams-",
-      "instance_name": "J_Event Streams-",
-      "binding_name": "ProAgent",
-      "credentials": {
-        "instance_id": "9997f11b-ad18-4773-933d-2c53458b7ed7",
-        "mqlight_lookup_url": "https://mqlight-lookup-prod02.messagehub.services.us-south.bluemix.net/Lookup?serviceId=9997f11b-ad18-4773-933d-2c53458b7ed7",
-        "api_key": "0c6PPVxujHBLl4h4CFPS4m4pRtHXpVf9euVMVTVf4ww6O5yu",
-        "kafka_admin_url": "https://kafka-admin-prod02.messagehub.services.us-south.bluemix.net:443",
-        "kafka_rest_url": "https://kafka-rest-prod02.messagehub.services.us-south.bluemix.net:443",
-    "kafka_brokers_sasl": [
+  "kafka_brokers_sasl": [
     	 "kafka01-prod02.messagehub.services.us-south.bluemix.net:9093",
          "kafka05-prod02.messagehub.services.us-south.bluemix.net:9093",
          "kafka02-prod02.messagehub.services.us-south.bluemix.net:9093",
