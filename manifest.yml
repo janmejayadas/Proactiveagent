@@ -7,5 +7,5 @@ applications:
   disk_quota: 256M
   env:
     HUB_URL: https://watson-personal-assistant-toolkit.mybluemix.net/
-    API_KEY: 
+    API_KEY:df793b93-beb4-49eb-b166-2a1c7b7418d2 
     RULE_PORT: 8080
