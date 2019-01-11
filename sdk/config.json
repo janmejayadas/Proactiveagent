@@ -3,7 +3,7 @@
 
       "name": "J_Event Streams-",
       "instance_name": "J_Event Streams-",
-      "binding_name": ProAgent,
+      "binding_name": "ProAgent",
       "credentials": {
         "instance_id": "9997f11b-ad18-4773-933d-2c53458b7ed7",
         "mqlight_lookup_url": "https://mqlight-lookup-prod02.messagehub.services.us-south.bluemix.net/Lookup?serviceId=9997f11b-ad18-4773-933d-2c53458b7ed7",
