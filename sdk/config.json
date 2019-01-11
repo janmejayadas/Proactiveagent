@@ -17,17 +17,9 @@
          "kafka03-prod02.messagehub.services.us-south.bluemix.net:9093",
          "kafka04-prod02.messagehub.services.us-south.bluemix.net:9093"
     ],
-    "syslog_drain_url": null,
-    "volume_mounts": [],
-    "label": "messagehub",
-    "provider": null,
-    "plan": "standard",
-    "tags": [
-      "web_and_app",
-      "ibm_created",
-      "ibm_dedicated_public"
-    ]
+    "user": "d9JSx1SYsmLzNRbb",
+    "password": "gUFneDm2DtkedlVeViObYJIvrPAf2kJA"
   }
-]
 }
+
 
