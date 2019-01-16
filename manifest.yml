@@ -3,7 +3,7 @@ applications:
   memory: 256M
   instances: 1
   command: node homeSecurity.js
-  name: kr-sdk-node-demo
+  name: Proactiveagent
   disk_quota: 256M
   env:
     HUB_URL: https://watson-personal-assistant-toolkit.mybluemix.net/
