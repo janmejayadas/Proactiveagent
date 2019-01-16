@@ -127,7 +127,7 @@ class KnowledgeObject {
       attributes: this.attributes,
       type: this.type
     };
-
+ console.log("URL===>"+'${KNOWLEDGE_URL}object'+"");
     const options = {
       url: `${KNOWLEDGE_URL}object`,
       method: 'POST',
